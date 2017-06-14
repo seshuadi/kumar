@@ -1,0 +1,65 @@
+
+#jan{
+	text-align: center;
+	background-color: black;
+	height: 40px;
+	text-decoration: none;
+	word-spacing: 50px;
+}
+div nav a{
+	color: white;
+}
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+#mar{
+	float: left;
+	text-align: justify;
+	padding-left: 70px;
+	padding-right: 600px;
+	margin: 50px;
+
+}
+fieldset{
+	position: absolute;
+	left: 900px;
+
+	text-align: justify;
+
+	/*position: right;*/
+	float: right;
+
+	/*top: 100px;*/
+	width: 100px;
+	padding: 30px;
+	margin: 20px 15px 10px 5px;
+	/*padding-right: 50px;*/
+	background-color: gray;
+	/*border-top-width: 50px,100px;*/
+}
+form
+{
+	background-color: gray;
+	border-top-width: 50px,100px;
+}
+#feb{
+	position: absolute;
+	top: 50px;
+	left: 100px;
+}
+#may{
+	position: absolute;
+	left: 100px;
+	top: 500px;
+}
+#june{
+	background-color: yellow;
+	position: absolute;
+	top: 900px;
+	height: 85px;
+	width: 1500px;
+
+
+}

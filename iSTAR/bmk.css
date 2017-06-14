@@ -1,0 +1,38 @@
+#jan{
+	text-align: center;
+	background-color: yellow;
+	height: 8px;
+	text-decoration: none;
+	word-spacing: 100px;
+}
+
+p{
+	float: left;
+	text-align: justify;
+	position: absolute;
+	color: white;
+	top: 300px;
+	width: 500px;
+	left: 200px;
+	margin: 15px 15px 15px 15px;
+	padding: 30px;
+	width: 180PX;
+
+ background-color: #006666;
+
+}
+iframe{
+	position: absolute;
+right: 250px;
+	top: 250px;
+	width: 500px;
+}
+body{
+	background-color:#339966;
+
+}
+#feb{
+	position: absolute;
+	left: 230px;
+	top: 50px;
+}
